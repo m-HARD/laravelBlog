@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\database",
+    "\\database\\migrations",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\user_views",
+    "\\resources\\views\\user_views\\posts"
+  ],
+  "SelectedNode": "\\resources\\views\\user_views\\posts\\create.blade.php",
+  "PreviewInSolutionExplorer": false
+}
