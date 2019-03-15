@@ -36,6 +36,7 @@ Route::resource('user/posts','user_posts_controller')->middleware('auth');
 Route::resource('categories','CategoryController',['except'=>'create'])->middleware('auth');
 Route::resource('tags','TagController',['except'=>'create'])->middleware('auth');
 
+// this test for gitHub
 
 //comments
 Route::post('comments/{post_id}',['uses' => 'commentsController@store' , 'as' => 'comments.store']);
